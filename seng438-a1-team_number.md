@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Student 1 name    Ella Boulanger            |   
+| Student 2 name    Kenzie Fjestad          |   
+| Student 3 name    Raina Jugdev           |   
+| Student 4 name    Dominico Mendes            |   
 
 
 **Table of Contents**

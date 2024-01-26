@@ -10,7 +10,6 @@
 Due Date: Check D2L for the submission deadline.
 
 # 1 Introduction
-
 This lab is designed to provide students with a comprehensive understanding of software testing. The lab is divided into four main sections:
 -   Familiarization with the system under test (SUT) and the defect tracking system
 -   Exploratory (manual non-scripted) testing
