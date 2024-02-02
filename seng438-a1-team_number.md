@@ -37,7 +37,7 @@ In this lab, we have developed our understanding of software testing by testing 
 
 # High-level description of the exploratory testing plan
 
-Text…
+Our goal with completing exploratory testing was to try and catch bugs prevalent in common-use scenarios with the system. We achieved this by defining the common-use functions in the system and testing them individually. We tested whether the system being on or off had proper functionality. We tested proper invalid card or invalid pin functionality. The standard transaction functions of withdrawal, deposit, and transfer were tested for proper functionality. Balance inquiry, receipt printing, and showing the transaction log were all tested for proper functionality. The goal of these tests was not to uncover every bug but to find the problems that would cause many problems due to the high frequency they would occur.
 
 # Comparison of exploratory and manual functional testing
 
